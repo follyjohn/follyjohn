@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, I'm John 👋
 
+I'm a full-stack developer based in Lyon, France. I enjoy building useful applications, automating deployments, and running my own infrastructure.
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with React
-- 💬 Ask me about DevOps 
+- 💻 I work with Go, TypeScript, React, and Python.
+- 🛠️ I build side projects and maintain my self-hosted services.
+- 🌱 I’m exploring observability, authentication, and backend architecture.
+- 🤝 I’m open to collaborating on open-source projects and developer tools.
+- 💬 Ask me about DevOps, Docker, self-hosting, and web development.
+- 🚴 Away from the keyboard, I enjoy cycling and visiting museums.
